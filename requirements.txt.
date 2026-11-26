@@ -1,7 +1,0 @@
-flask
-gunicorn
-tensorflow-cpu
-scikit-learn
-joblib
-numpy
-firebase-admin
